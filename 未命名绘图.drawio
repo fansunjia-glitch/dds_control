@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="BB9-eEPvZG8yFUwoWf1U">
+    <mxGraphModel dx="989" dy="708" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-20g7EdmIRMxwAtkuxAa-6" edge="1" parent="1" source="-20g7EdmIRMxwAtkuxAa-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;startArrow=classic;startFill=1;" target="-20g7EdmIRMxwAtkuxAa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-20g7EdmIRMxwAtkuxAa-9" connectable="0" parent="-20g7EdmIRMxwAtkuxAa-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="其他通信协议如CAN" vertex="1">
+          <mxGeometry relative="1" x="0.0407" y="-4" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-20g7EdmIRMxwAtkuxAa-7" edge="1" parent="1" source="-20g7EdmIRMxwAtkuxAa-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;startArrow=classic;startFill=1;" target="-20g7EdmIRMxwAtkuxAa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-20g7EdmIRMxwAtkuxAa-10" connectable="0" parent="-20g7EdmIRMxwAtkuxAa-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="其他通信协议如CAN" vertex="1">
+          <mxGeometry relative="1" x="-0.0214" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-20g7EdmIRMxwAtkuxAa-13" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="265" as="sourcePoint" />
+            <mxPoint x="550" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-20g7EdmIRMxwAtkuxAa-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DDS XRCE&lt;div&gt;代理节点&lt;/div&gt;&lt;div&gt;SoC&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="106" x="361" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-20g7EdmIRMxwAtkuxAa-5" edge="1" parent="1" source="-20g7EdmIRMxwAtkuxAa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;startArrow=classic;startFill=1;" target="-20g7EdmIRMxwAtkuxAa-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-20g7EdmIRMxwAtkuxAa-8" connectable="0" parent="-20g7EdmIRMxwAtkuxAa-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="DDS RTPS通信" vertex="1">
+          <mxGeometry relative="1" x="0.0286" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-20g7EdmIRMxwAtkuxAa-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DDS 通信节点&lt;div&gt;SoC&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="106" x="361" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-20g7EdmIRMxwAtkuxAa-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MCU节点" vertex="1">
+          <mxGeometry height="50" width="106" x="480" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-20g7EdmIRMxwAtkuxAa-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MCU节点" vertex="1">
+          <mxGeometry height="50" width="106" x="255" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-20g7EdmIRMxwAtkuxAa-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="单点依赖风险" vertex="1">
+          <mxGeometry height="15" width="90" x="560" y="257.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
