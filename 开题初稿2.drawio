@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="6">
   <diagram name="第 1 页" id="_TGQGa3najI0ArNdO3FA">
-    <mxGraphModel dx="1435" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1065" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="XRCE 代理协议（全量转发）" vertex="1">
-          <mxGeometry height="24" width="225" x="145" y="258" as="geometry" />
+          <mxGeometry height="24" width="225" x="100" y="261" as="geometry" />
         </mxCell>
         <mxCell id="14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;" value="" vertex="1">
           <mxGeometry height="370" width="490" x="550" y="20" as="geometry" />
@@ -64,7 +64,7 @@
         <mxCell id="17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;" value="Linux SoC 应用 /&lt;br&gt;未修改标准 DDS 节点" vertex="1">
           <mxGeometry height="80" width="195" x="575" y="205" as="geometry" />
         </mxCell>
-        <mxCell id="18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;" value="车规 MCU 节点&lt;br&gt;（ENET 硬件组播滤波）" vertex="1">
+        <mxCell id="18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;" value="车规 MCU 节点" vertex="1">
           <mxGeometry height="80" width="195" x="820" y="205" as="geometry" />
         </mxCell>
         <mxCell id="19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;" value="业务数据不经协调中转；离线后存量链路独立维持" vertex="1">
@@ -109,7 +109,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="图2_四层系统架构" id="kgef-SeAwICyOgtLGHqP">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1120" pageHeight="690" math="0" shadow="0">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1120" pageHeight="690" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,7 +119,7 @@
         <mxCell id="3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8E8E8;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=1;" value="Linux SoC 域控节点（协调端）" vertex="1">
           <mxGeometry height="42" width="470" x="150" y="15" as="geometry" />
         </mxCell>
-        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8E8E8;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=1;" value="车规 MCU 节点（受限端：NXP S32K148）" vertex="1">
+        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8E8E8;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=1;" value="车规 MCU 节点" vertex="1">
           <mxGeometry height="42" width="470" x="635" y="15" as="geometry" />
         </mxCell>
         <mxCell id="5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" value="应用接口层" vertex="1">
@@ -143,7 +143,7 @@
         <mxCell id="11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;" value="上层业务应用" vertex="1">
           <mxGeometry height="40" width="208" x="168" y="78" as="geometry" />
         </mxCell>
-        <mxCell id="12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="发现协调进程（匹配 · 选档）" vertex="1">
+        <mxCell id="12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;发现协调进程&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="210" x="392" y="78" as="geometry" />
         </mxCell>
         <mxCell id="13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7F7;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;" value="发布 / 订阅应用接口" vertex="1">
@@ -164,19 +164,19 @@
         <mxCell id="16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;dashed=1;dashPattern=6 4;fontStyle=1;verticalAlign=top;spacingTop=6;" value="动态发现层（集中匹配与标准代理）" vertex="1">
           <mxGeometry height="266" width="410" x="192" y="186" as="geometry" />
         </mxCell>
-        <mxCell id="17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="发现管理模块&lt;br&gt;摘要汇聚 · 标准代理" vertex="1">
+        <mxCell id="17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;发现管理模块&lt;/font&gt;" vertex="1">
           <mxGeometry height="56" width="185" x="206" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="端点匹配模块&lt;br&gt;保守粗筛 · 精确复核" vertex="1">
+        <mxCell id="18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;端点匹配模块&lt;/font&gt;" vertex="1">
           <mxGeometry height="56" width="185" x="403" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="扩展参数编解码&lt;br&gt;RTPS 厂商扩展段" vertex="1">
+        <mxCell id="19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;扩展参数编解码&lt;/font&gt;" vertex="1">
           <mxGeometry height="56" width="185" x="206" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="存储管理模块&lt;br&gt;精确与版本化负向缓存" vertex="1">
+        <mxCell id="20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;存储管理模块&lt;/font&gt;" vertex="1">
           <mxGeometry height="56" width="185" x="403" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="性能建模与参数选档模块&lt;br&gt;事件回放预测 · 离线最优选档（含动态调参扩展）" vertex="1">
+        <mxCell id="21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="性能建模与参数调优模块" vertex="1">
           <mxGeometry height="74" width="382" x="206" y="362" as="geometry" />
         </mxCell>
         <mxCell id="22" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;strokeWidth=1.1;endArrow=block;endFill=1;startArrow=block;startFill=1;" value="">
@@ -200,7 +200,7 @@
         <mxCell id="25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;" value="RTPS 数据传输层&lt;br&gt;原生 RTPS 点对点单播收发与心跳" vertex="1">
           <mxGeometry height="74" width="434" x="168" y="464" as="geometry" />
         </mxCell>
-        <mxCell id="26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="Linux POSIX 平台适配层（网络套接字 · 高精度时钟）" vertex="1">
+        <mxCell id="26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Linux POSIX 平台适配层&lt;/font&gt;" vertex="1">
           <mxGeometry height="46" width="434" x="168" y="550" as="geometry" />
         </mxCell>
         <mxCell id="27" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=block;startFill=1;" value="">
@@ -215,10 +215,10 @@
         <mxCell id="29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="高优先级实时控制任务" vertex="1">
           <mxGeometry height="40" width="158" x="930" y="78" as="geometry" />
         </mxCell>
-        <mxCell id="30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7F7;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="轻量发现注册接口" vertex="1">
+        <mxCell id="30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7F7;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;轻量发现注册接口&lt;/font&gt;" vertex="1">
           <mxGeometry height="36" width="262" x="652" y="134" as="geometry" />
         </mxCell>
-        <mxCell id="31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7F7;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="实时任务接口" vertex="1">
+        <mxCell id="31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7F7;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;实时任务接口&lt;/font&gt;" vertex="1">
           <mxGeometry height="36" width="158" x="930" y="134" as="geometry" />
         </mxCell>
         <mxCell id="32" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=block;startFill=1;" value="">
@@ -233,28 +233,28 @@
             <mxPoint x="1009" y="134" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;fontStyle=1;verticalAlign=top;spacingTop=6;" value="动态发现层（零动态堆静态池）" vertex="1">
+        <mxCell id="34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;fontStyle=1;verticalAlign=top;spacingTop=6;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;动态发现层&lt;/font&gt;" vertex="1">
           <mxGeometry height="266" width="282" x="652" y="186" as="geometry" />
         </mxCell>
-        <mxCell id="35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="发现管理：上报 · 清槽 · 离线续租" vertex="1">
+        <mxCell id="35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;发现管理&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="258" x="664" y="218" as="geometry" />
         </mxCell>
-        <mxCell id="36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="QoS 感知摘要：32位槽位表 · 支配归并" vertex="1">
+        <mxCell id="36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;QoS 感知摘要&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="258" x="664" y="266" as="geometry" />
         </mxCell>
-        <mxCell id="37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="扩展参数编解码（零拷贝）" vertex="1">
+        <mxCell id="37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;扩展参数编解码&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="258" x="664" y="314" as="geometry" />
         </mxCell>
-        <mxCell id="38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="静态对象池与静态暂存区（零动态堆）" vertex="1">
+        <mxCell id="38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;静态对象池与静态暂存区&lt;/font&gt;" vertex="1">
           <mxGeometry height="38" width="258" x="664" y="362" as="geometry" />
         </mxCell>
-        <mxCell id="39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="事件计数统计与周期执行" vertex="1">
+        <mxCell id="39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;事件计数统计与周期执行&lt;/font&gt;" vertex="1">
           <mxGeometry height="34" width="258" x="664" y="408" as="geometry" />
         </mxCell>
         <mxCell id="40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=9;dashed=1;dashPattern=6 4;" value="任务与内存隔离" vertex="1">
           <mxGeometry height="22" width="106" x="865" y="168" as="geometry" />
         </mxCell>
-        <mxCell id="41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="RTOS&lt;br&gt;实时任务&lt;br&gt;直连通道&lt;br&gt;&lt;br&gt;（不受发现&lt;br&gt;任务抢占）" vertex="1">
+        <mxCell id="41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;RTOS&lt;br&gt;实时任务&lt;/font&gt;" vertex="1">
           <mxGeometry height="266" width="140" x="948" y="186" as="geometry" />
         </mxCell>
         <mxCell id="42" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=block;startFill=1;" value="">
@@ -281,10 +281,10 @@
             <mxPoint x="1018" y="464" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="RTPS 数据传输层（embeddedRTPS 裁剪版）&lt;br&gt;点对点单播原生 RTPS 直连收发（Micro-CDR）" vertex="1">
+        <mxCell id="46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;RTPS 数据传输层&lt;br&gt;点对点单播原生 RTPS 直连收发（Micro-CDR）&lt;/font&gt;" vertex="1">
           <mxGeometry height="74" width="436" x="652" y="464" as="geometry" />
         </mxCell>
-        <mxCell id="47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=9.5;" value="FreeRTOS / lwIP 适配层（ENET GAUR/GALR 滤波 · ADTJA1101-RMII）" vertex="1">
+        <mxCell id="47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=9.5;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;FreeRTOS / lwIP 适配层&lt;/font&gt;" vertex="1">
           <mxGeometry height="46" width="436" x="652" y="550" as="geometry" />
         </mxCell>
         <mxCell id="48" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=block;startFill=1;" value="">
@@ -296,7 +296,7 @@
         <mxCell id="49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="未修改标准 DDS 节点&lt;br&gt;Fast DDS / Cyclone DDS" vertex="1">
           <mxGeometry height="50" width="240" x="15" y="622" as="geometry" />
         </mxCell>
-        <mxCell id="50" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;endArrow=block;endFill=1;startArrow=block;startFill=1;labelBackgroundColor=#FFFFFF;" value="标准 SPDP/SEDP 代理转译">
+        <mxCell id="50" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;endArrow=block;endFill=1;startArrow=block;startFill=1;labelBackgroundColor=#FFFFFF;" value="标准 SPDP/SEDP">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="636" />
@@ -315,7 +315,7 @@
             <mxPoint x="825" y="606" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="52" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=block;startFill=1;fontStyle=1;labelBackgroundColor=#FFFFFF;" value="数据面：原生 RTPS 点对点单播直连（协调离线独立维持）">
+        <mxCell id="52" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=block;startFill=1;fontStyle=1;labelBackgroundColor=#FFFFFF;" value="数据面：原生 RTPS 点对点单播直连">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="935" y="662" />
@@ -328,7 +328,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="图3_发现交互时序图" id="MfazdraRaAILVAqJlge-">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1100" pageHeight="680" math="0" shadow="0">
+    <mxGraphModel dx="1712" dy="872" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="680" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -353,7 +353,7 @@
         <mxCell id="8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;" value="" vertex="1">
           <mxGeometry height="118" width="1070" x="15" y="545" as="geometry" />
         </mxCell>
-        <mxCell id="9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFEFEF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" value="阶段四&lt;br&gt;离线维持" vertex="1">
+        <mxCell id="9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFEFEF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" value="阶段四&lt;br&gt;通信维持" vertex="1">
           <mxGeometry height="118" width="105" x="15" y="545" as="geometry" />
         </mxCell>
         <mxCell id="10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" value="未修改标准 DDS 节点&lt;br&gt;(Fast / Cyclone DDS)" vertex="1">
@@ -383,7 +383,7 @@
             <mxPoint x="725" y="665" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" value="车规 MCU 节点&lt;br&gt;(S32K148)" vertex="1">
+        <mxCell id="16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" value="车规 MCU 节点" vertex="1">
           <mxGeometry height="52" width="190" x="870" y="16" as="geometry" />
         </mxCell>
         <mxCell id="17" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;endArrow=none;startArrow=none;" value="">
@@ -392,22 +392,22 @@
             <mxPoint x="965" y="665" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="18" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="① 标准 SPDP / SEDP 报文（协调端代理监听）">
+        <mxCell id="18" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="&amp;nbsp;标准 SPDP / SEDP 报文">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="225" y="112" as="sourcePoint" />
             <mxPoint x="725" y="112" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;" value="ENET 硬件屏蔽 239.255.0.1" vertex="1">
+        <mxCell id="19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=10;" value="屏蔽 239.255.0.1" vertex="1">
           <mxGeometry height="36" width="180" x="875" y="96" as="geometry" />
         </mxCell>
-        <mxCell id="20" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="② 单播上报紧凑摘要 + 订阅键">
+        <mxCell id="20" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="&amp;nbsp;单播上报紧凑摘要 + 订阅键">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="475" y="150" as="sourcePoint" />
             <mxPoint x="725" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="21" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="③ 单播上报轻量摘要 + 订阅键">
+        <mxCell id="21" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="&amp;nbsp;单播上报轻量摘要 + 订阅键">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="965" y="186" as="sourcePoint" />
             <mxPoint x="725" y="186" as="targetPoint" />
@@ -416,46 +416,46 @@
         <mxCell id="22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="一级保守粗筛：32位槽位表 + 静态暂存区" vertex="1">
           <mxGeometry height="36" width="220" x="615" y="228" as="geometry" />
         </mxCell>
-        <mxCell id="23" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="④ 命中且双缓存未命中：按需拉取描述">
+        <mxCell id="23" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="&amp;nbsp;命中且双缓存未命中：按需拉取描述">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="725" y="284" as="sourcePoint" />
             <mxPoint x="475" y="284" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="⑤ 返回完整端点描述">
+        <mxCell id="24" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;dashed=1;" value="&amp;nbsp;返回完整端点描述">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="475" y="316" as="sourcePoint" />
             <mxPoint x="725" y="316" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="二级精确复核：精确时间 / 分区 / 类型一致性&lt;br&gt;失配写入版本化负向缓存拦截重复拉取" vertex="1">
+        <mxCell id="25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="二级精确复核：精确时间 / 分区 / 类型一致性&lt;br&gt;缓存拦截重复拉取" vertex="1">
           <mxGeometry height="48" width="250" x="600" y="336" as="geometry" />
         </mxCell>
-        <mxCell id="26" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="⑥ 下发绑定通知">
+        <mxCell id="26" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="下发绑定通知">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="725" y="426" as="sourcePoint" />
             <mxPoint x="475" y="426" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="27" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="⑥ 下发精简绑定（GUID + 单播地址）">
+        <mxCell id="27" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="下发精简绑定（GUID + 单播地址）">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="725" y="426" as="sourcePoint" />
             <mxPoint x="965" y="426" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="28" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="⑥ 代理发送携带 MCU 单播定位器的标准 SEDP 通知">
+        <mxCell id="28" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="代理发送携带 MCU 单播定位器的标准 SEDP 通知">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="725" y="458" as="sourcePoint" />
             <mxPoint x="225" y="458" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="29" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=block;startFill=1;fontStyle=1;labelBackgroundColor=#FAFAFA;" value="⑦ 数据面直连：原生 RTPS 点对点单播通信">
+        <mxCell id="29" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=block;startFill=1;fontStyle=1;labelBackgroundColor=#FAFAFA;" value="数据面直连：原生 RTPS 点对点单播通信">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="475" y="490" as="sourcePoint" />
             <mxPoint x="965" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="30" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=block;startFill=1;fontStyle=1;labelBackgroundColor=#FAFAFA;" value="⑦ 与未修改标准节点直接建立原生 RTPS 单播直连">
+        <mxCell id="30" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=block;startFill=1;fontStyle=1;labelBackgroundColor=#FAFAFA;" value="与未修改标准节点直接建立原生 RTPS 单播直连">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="225" y="520" as="sourcePoint" />
             <mxPoint x="965" y="520" as="targetPoint" />
@@ -464,13 +464,13 @@
         <mxCell id="31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;fontStyle=1;" value="协调进程异常退出 / 离线" vertex="1">
           <mxGeometry height="32" width="184" x="633" y="554" as="geometry" />
         </mxCell>
-        <mxCell id="32" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;strokeWidth=2.0;endArrow=block;endFill=1;startArrow=block;startFill=1;fontStyle=1;labelBackgroundColor=#FAFAFA;" value="存量 RTPS 数据流独立保持通信（跨越多个租期观测）">
+        <mxCell id="32" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;strokeWidth=2.0;endArrow=block;endFill=1;startArrow=block;startFill=1;fontStyle=1;labelBackgroundColor=#FAFAFA;" value="存量 RTPS 数据流独立保持通信">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="475" y="604" as="sourcePoint" />
             <mxPoint x="965" y="604" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="33" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="⑧ 向已绑定标准端元流量单播地址发送轻量 SPDP 续期帧（恢复后按会话号清槽）">
+        <mxCell id="33" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;labelBackgroundColor=#FAFAFA;" value="向已绑定标准端元流量单播地址发送轻量 SPDP 续期帧">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="965" y="640" as="sourcePoint" />
             <mxPoint x="225" y="640" as="targetPoint" />
@@ -480,38 +480,38 @@
     </mxGraphModel>
   </diagram>
   <diagram name="图4_32位槽位与两阶段匹配" id="llSDEPkBq4eehcIXBkrg">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1080" pageHeight="590" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1080" pageHeight="590" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=1;verticalAlign=top;spacingTop=8;" value="(a) 32 位定长槽位比特布局与同主题偏序支配归并" vertex="1">
+        <mxCell id="2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=1;verticalAlign=top;spacingTop=8;" value="(a) 32 位定长槽位比特布局与同主题偏序QoS归并" vertex="1">
           <mxGeometry height="215" width="1050" x="15" y="15" as="geometry" />
         </mxCell>
-        <mxCell id="3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="Bit 31..20" vertex="1">
+        <mxCell id="3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="Bit 31-20" vertex="1">
           <mxGeometry height="20" width="372" x="45" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="实体指纹 (12 bit)&lt;br&gt;h(Topic ‖ TypeID ‖ Role ‖ ExactPart)" vertex="1">
+        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="基础属性指纹 (12 bit)&lt;br&gt;h(Topic ‖ TypeID ‖ Role ‖ ExactPart)" vertex="1">
           <mxGeometry height="68" width="372" x="45" y="72" as="geometry" />
         </mxCell>
-        <mxCell id="5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="Bit 19..9" vertex="1">
+        <mxCell id="5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="Bit 19-9" vertex="1">
           <mxGeometry height="20" width="341" x="417" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="离散 RxO 能力位段 (11 bit)&lt;br&gt;Rel(1)·Dur(2)·Liv(2)·Own(1)·Ord(1)·Pres(4)" vertex="1">
+        <mxCell id="6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="离散 RxO QoS配置 (11 bit)&lt;br&gt;Rel(1)·Dur(2)·Liv(2)·Own(1)·Ord(1)·Pres(4)" vertex="1">
           <mxGeometry height="68" width="341" x="417" y="72" as="geometry" />
         </mxCell>
-        <mxCell id="7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="Bit 8..5" vertex="1">
+        <mxCell id="7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="Bit 8-5" vertex="1">
           <mxGeometry height="20" width="124" x="758" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4F4F4;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="双时间粗档 (4 bit)&lt;br&gt;Deadline(2)·Lease(2)" vertex="1">
+        <mxCell id="8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4F4F4;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="连续时间QoS分档 (4 bit)&lt;br&gt;Deadline(2)·Lease(2)" vertex="1">
           <mxGeometry height="68" width="124" x="758" y="72" as="geometry" />
         </mxCell>
-        <mxCell id="9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="Bit 4..0" vertex="1">
+        <mxCell id="9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="Bit 4-0" vertex="1">
           <mxGeometry height="20" width="155" x="882" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="表示与标志 (5 bit)&lt;br&gt;Rep(2)·Wild(1)·保留(2)" vertex="1">
+        <mxCell id="10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="标志位 (5 bit)&lt;br&gt;Rep(2)·Wild(1)·保留(2)" vertex="1">
           <mxGeometry height="68" width="155" x="882" y="72" as="geometry" />
         </mxCell>
-        <mxCell id="11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;" value="同节点同主题写入前偏序支配归并：若写端 e1 在全部离散偏序不弱于 e2、等值项一致且量化双时间不慢于 e2，则 e2 不占主表槽位；&lt;br&gt;单槽 4 B（256 B 主表含 64 槽、512 B 含 128 槽），二级精确复核仍从原始描述集找回全部兼容写端（保证不丢合法匹配）" vertex="1">
+        <mxCell id="11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;" value="同节点同主题写入前归并：若写端 e1 在全部离散QoS不弱于 e2、连续时间QoS时间不慢于 e2，则 e2 不占主表槽位；&lt;br&gt;单槽 4 B（256 B 主表含 64 槽、512 B 含 128 槽），精确复核时仍从原始描述集找回写端（保证不丢失合法匹配）" vertex="1">
           <mxGeometry height="56" width="992" x="45" y="156" as="geometry" />
         </mxCell>
         <mxCell id="12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=1;verticalAlign=top;spacingTop=8;" value="(b) 保守排除原则下的两阶段匹配与溢出回退流程" vertex="1">
@@ -523,22 +523,22 @@
         <mxCell id="14" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="版本不确定 /&lt;br&gt;通配分区 /&lt;br&gt;溢出标志置位？" vertex="1">
           <mxGeometry height="76" width="156" x="210" y="344" as="geometry" />
         </mxCell>
-        <mxCell id="15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="查询主表 2 个候选桶&lt;br&gt;+ 静态暂存区(Stash)&lt;br&gt;比对指纹与偏序/双时间" vertex="1">
+        <mxCell id="15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="查询主表候选桶&lt;br&gt;+ 静态暂存区&lt;br&gt;比对指纹与偏序/双时间" vertex="1">
           <mxGeometry height="76" width="168" x="406" y="344" as="geometry" />
         </mxCell>
-        <mxCell id="16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8E8E8;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="确定不兼容&lt;br&gt;直接排除候选&lt;br&gt;（0 复核开销）" vertex="1">
+        <mxCell id="16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8E8E8;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="确定不兼容&lt;br&gt;直接排除候选" vertex="1">
           <mxGeometry height="60" width="152" x="414" y="488" as="geometry" />
         </mxCell>
-        <mxCell id="17" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="命中精确描述缓存&lt;br&gt;或版本化负向缓存？" vertex="1">
+        <mxCell id="17" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="命中匹配记录的缓存？" vertex="1">
           <mxGeometry height="76" width="164" x="616" y="344" as="geometry" />
         </mxCell>
-        <mxCell id="18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="协调端本地裁决&lt;br&gt;（0 网络拉取）" vertex="1">
+        <mxCell id="18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="协调端本地裁决" vertex="1">
           <mxGeometry height="60" width="164" x="616" y="488" as="geometry" />
         </mxCell>
-        <mxCell id="19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="按需单播拉取完整描述&lt;br&gt;二级精确复核（精确时间不等式/&lt;br&gt;通配分区/类型一致性）&lt;br&gt;还原全部兼容写端并更新缓存" vertex="1">
+        <mxCell id="19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="按需单播拉取完整描述&lt;br&gt;二级精确复核&lt;div&gt;（精确时间不等式/&lt;br&gt;通配分区/类型一致性）&lt;br&gt;还原全部兼容写端并更新缓存&lt;/div&gt;" vertex="1">
           <mxGeometry height="92" width="218" x="828" y="336" as="geometry" />
         </mxCell>
-        <mxCell id="20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="兼容：下发精简绑定&lt;br&gt;不兼容：写负向缓存" vertex="1">
+        <mxCell id="20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="兼容：下发精简绑定&lt;br&gt;不兼容：写入匹配记录缓存" vertex="1">
           <mxGeometry height="60" width="190" x="842" y="488" as="geometry" />
         </mxCell>
         <mxCell id="21" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;" value="">
@@ -553,7 +553,7 @@
             <mxPoint x="406" y="382" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="23" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;endArrow=block;endFill=1;startArrow=none;fontStyle=1;labelBackgroundColor=#FFFFFF;" value="是：保守放行（保留复核通路，防止假阴性）">
+        <mxCell id="23" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;endArrow=block;endFill=1;startArrow=none;fontStyle=1;labelBackgroundColor=#FFFFFF;" value="是：保守排除，进入精确符合阶段">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="288" y="298" />
@@ -597,53 +597,53 @@
     </mxGraphModel>
   </diagram>
   <diagram name="图5_性能建模与选档框架" id="V_FmdeYpSRGPm1O-zmWJ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1080" pageHeight="510" math="0" shadow="0">
+    <mxGraphModel dx="688" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1080" pageHeight="510" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;verticalAlign=top;spacingTop=8;" value="输入层：异构负载轨迹" vertex="1">
           <mxGeometry height="222" width="245" x="15" y="18" as="geometry" />
         </mxCell>
-        <mxCell id="3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="带时间戳的端点增删事件&lt;br&gt;（OTA 变更 · 休眠唤醒 · 重启）" vertex="1">
+        <mxCell id="3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="带时间戳的端点增删事件" vertex="1">
           <mxGeometry height="78" width="215" x="30" y="58" as="geometry" />
         </mxCell>
-        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="订阅查询到达序列与&lt;br&gt;异构拓扑（SoC / MCU / 标准端）" vertex="1">
+        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="订阅查询到达序列与&lt;br&gt;节点类型（SoC / MCU / 标准端）" vertex="1">
           <mxGeometry height="68" width="215" x="30" y="152" as="geometry" />
         </mxCell>
         <mxCell id="5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;verticalAlign=top;spacingTop=8;" value="按事件分项实测标定" vertex="1">
           <mxGeometry height="228" width="245" x="15" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="抓包标定各类报文字节&lt;br&gt;（摘要 / 描述 / 绑定 / 代理）" vertex="1">
+        <mxCell id="6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="抓包标定各类报文字节&lt;br&gt;（摘要 / 描述 / 绑定）" vertex="1">
           <mxGeometry height="54" width="215" x="30" y="298" as="geometry" />
         </mxCell>
-        <mxCell id="7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="DWT_CYCCNT 标定 MCU&lt;br&gt;各原子事件处理时钟周期" vertex="1">
+        <mxCell id="7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="标定 MCU&lt;br&gt;各事件处理时钟周期" vertex="1">
           <mxGeometry height="52" width="215" x="30" y="362" as="geometry" />
         </mxCell>
-        <mxCell id="8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="ELF 符号表标定静态池单槽字节" vertex="1">
+        <mxCell id="8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="标定静态池字节分类和占用" vertex="1">
           <mxGeometry height="48" width="215" x="30" y="424" as="geometry" />
         </mxCell>
         <mxCell id="9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;strokeWidth=1.2;fontStyle=1;verticalAlign=top;spacingTop=8;" value="步骤一：协议事件回放与多维性能预测" vertex="1">
           <mxGeometry height="470" width="382" x="298" y="18" as="geometry" />
         </mxCell>
-        <mxCell id="10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="枚举候选配置 (摘要容量 M_i, 宣告周期 T_i)&lt;br&gt;SoC 调容量与周期；MCU 固化静态池、优先调周期" vertex="1">
+        <mxCell id="10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="枚举候选配置 (摘要容量 M_i, 宣告周期 T_i)&lt;br&gt;SoC 调容量与周期；MCU 优先调周期" vertex="1">
           <mxGeometry height="62" width="342" x="318" y="56" as="geometry" />
         </mxCell>
         <mxCell id="11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;fontStyle=1;verticalAlign=top;spacingTop=6;" value="协议状态机确定性回放引擎" vertex="1">
           <mxGeometry height="148" width="342" x="318" y="144" as="geometry" />
         </mxCell>
-        <mxCell id="12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="建表与支配归并" vertex="1">
+        <mxCell id="12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="建表与QoS归并" vertex="1">
           <mxGeometry height="46" width="152" x="330" y="178" as="geometry" />
         </mxCell>
-        <mxCell id="13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="周期与脏更新宣告" vertex="1">
+        <mxCell id="13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="周期与更新宣告" vertex="1">
           <mxGeometry height="46" width="152" x="496" y="178" as="geometry" />
         </mxCell>
-        <mxCell id="14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="双缓存命中与请求合并" vertex="1">
+        <mxCell id="14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="缓存命中与请求合并" vertex="1">
           <mxGeometry height="46" width="152" x="330" y="234" as="geometry" />
         </mxCell>
-        <mxCell id="15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="溢出回退与拉取绑定" vertex="1">
+        <mxCell id="15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="溢出回退，拉取绑定" vertex="1">
           <mxGeometry height="46" width="152" x="496" y="234" as="geometry" />
         </mxCell>
-        <mxCell id="16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;verticalAlign=top;spacingTop=6;" value="多维开销映射与逐绑定时延统计" vertex="1">
+        <mxCell id="16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;verticalAlign=top;spacingTop=6;" value="多维开销映射与时延统计" vertex="1">
           <mxGeometry height="152" width="342" x="318" y="318" as="geometry" />
         </mxCell>
         <mxCell id="17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="全网与 MCU 侧&lt;br&gt;控制流量速率" vertex="1">
@@ -670,10 +670,10 @@
         <mxCell id="22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;strokeWidth=1.2;fontStyle=1;verticalAlign=top;spacingTop=8;" value="步骤二：约束筛选与参数选档" vertex="1">
           <mxGeometry height="260" width="346" x="718" y="18" as="geometry" />
         </mxCell>
-        <mxCell id="23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="硬红线可行域筛选&lt;br&gt;RAM ≤ 32/40 KB · CPU ≤ 5% · P95 ≤ 500 ms" vertex="1">
+        <mxCell id="23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="硬约束可行域筛选&lt;br&gt;RAM ≤ 32/40 KB&lt;div&gt;CPU ≤ 5%&lt;/div&gt;&lt;div&gt;P95 ≤ 500 ms&lt;/div&gt;" vertex="1">
           <mxGeometry height="68" width="310" x="736" y="56" as="geometry" />
         </mxCell>
-        <mxCell id="24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="离线最优选档（核心成果）&lt;br&gt;选取可行域内控制字节率最低档 (M_i*, T_i*)" vertex="1">
+        <mxCell id="24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="离线最优选档&lt;br&gt;选取可行域内控制字节率最低档 (M_i*, T_i*)" vertex="1">
           <mxGeometry height="56" width="310" x="736" y="142" as="geometry" />
         </mxCell>
         <mxCell id="25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=9.5;dashed=1;dashPattern=6 4;" value="动态负载扩展：计入重建/缓存失效代价的在线调参" vertex="1">
@@ -694,10 +694,10 @@
         <mxCell id="28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;verticalAlign=top;spacingTop=8;" value="步骤三：独立负载验证" vertex="1">
           <mxGeometry height="186" width="346" x="718" y="302" as="geometry" />
         </mxCell>
-        <mxCell id="29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=9.5;" value="预测精度评估（独立未标定负载）&lt;br&gt;流量相对误差 · CPU 百分点误差 · P95 毫秒误差" vertex="1">
+        <mxCell id="29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=9.5;" value="预测精度评估（独立未标定负载）&lt;br&gt;流量相对误差&lt;div&gt;CPU 百分点误差&lt;/div&gt;&lt;div&gt;P95 毫秒误差&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="310" x="736" y="342" as="geometry" />
         </mxCell>
-        <mxCell id="30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=9.5;fontStyle=1;" value="选档决策质量评估&lt;br&gt;推荐档位实机达标率及与实测最优可行档差距" vertex="1">
+        <mxCell id="30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=9.5;fontStyle=1;" value="决策质量评估&lt;br&gt;推荐档位实机达标率及与实测最优可行参数差距" vertex="1">
           <mxGeometry height="56" width="310" x="736" y="416" as="geometry" />
         </mxCell>
         <mxCell id="31" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;strokeWidth=1.2;endArrow=block;endFill=1;startArrow=none;" value="">
@@ -718,13 +718,13 @@
             <mxPoint x="718" y="148" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="34" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;strokeWidth=1.2;endArrow=block;endFill=1;startArrow=none;" value="">
+        <mxCell id="34" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;strokeWidth=1.2;endArrow=none;endFill=0;startArrow=block;dashed=1;startFill=1;" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="395" as="sourcePoint" />
             <mxPoint x="718" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="35" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;dashed=1;dashPattern=6 4;endArrow=block;endFill=1;startArrow=none;" value="">
+        <mxCell id="35" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="891" y="278" as="sourcePoint" />
             <mxPoint x="891" y="302" as="targetPoint" />
@@ -734,7 +734,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="图6_四阶段技术路线图" id="qVOy-lyP9nq7yrDwQBNA">
-    <mxGraphModel dx="1053" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1040" pageHeight="530" math="0" shadow="0">
+    <mxGraphModel dx="1187" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1040" pageHeight="530" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -744,7 +744,7 @@
         <mxCell id="3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" value="阶段一&lt;br&gt;资源剖析与&lt;br&gt;协议规格" vertex="1">
           <mxGeometry height="76" width="152" x="32" y="31" as="geometry" />
         </mxCell>
-        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="S32K148 分段 SRAM 与&lt;br&gt;ADTJA1101-RMII 链路摸底" vertex="1">
+        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="S32K148 分段 SRAM 与&lt;br&gt;以太网通信链路打通" vertex="1">
           <mxGeometry height="72" width="222" x="206" y="33" as="geometry" />
         </mxCell>
         <mxCell id="5" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;" value="">
@@ -753,7 +753,7 @@
             <mxPoint x="452" y="69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="划定 32 KB 静态预算与&lt;br&gt;三层 QoS 支持边界表" vertex="1">
+        <mxCell id="6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="划定 32 KB 静态预算与&lt;br&gt;四类发现过程 QoS 支持表" vertex="1">
           <mxGeometry height="72" width="222" x="452" y="33" as="geometry" />
         </mxCell>
         <mxCell id="7" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;" value="">
@@ -798,7 +798,7 @@
             <mxPoint x="452" y="197" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="32 位定长槽位摘要表、&lt;br&gt;支配归并与静态暂存区" vertex="1">
+        <mxCell id="16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="32 位定长槽位摘要表、&lt;br&gt;QoS归并与静态暂存区" vertex="1">
           <mxGeometry height="72" width="222" x="452" y="161" as="geometry" />
         </mxCell>
         <mxCell id="17" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;" value="">
@@ -807,7 +807,7 @@
             <mxPoint x="698" y="197" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="协调端双缓存、按需拉取&lt;br&gt;与标准 SPDP/SEDP 代理" vertex="1">
+        <mxCell id="18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="协调端缓存、按需拉取&lt;br&gt;与标准 SPDP/SEDP 代理" vertex="1">
           <mxGeometry height="72" width="222" x="698" y="161" as="geometry" />
         </mxCell>
         <mxCell id="19" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;" value="">
@@ -910,8 +910,8 @@
             <mxPoint x="940" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;rotation=-90;" value="实机测量数据&lt;br&gt;反馈校准模型" vertex="1">
-          <mxGeometry height="30" width="90" x="970" y="374" as="geometry" />
+        <mxCell id="40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;rotation=0;flipH=0;legacyAnchorPoints=0;flipV=0;direction=west;textDirection=ltr;" value="实机测量数据&lt;br&gt;反馈校准模型" vertex="1">
+          <mxGeometry height="30" width="90" x="990" y="374" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
