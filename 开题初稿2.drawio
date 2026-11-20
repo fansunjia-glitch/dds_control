@@ -480,7 +480,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="图4_32位槽位与两阶段匹配" id="llSDEPkBq4eehcIXBkrg">
-    <mxGraphModel dx="1090" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1080" pageHeight="590" math="0" shadow="0">
+    <mxGraphModel dx="1090" dy="711" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1080" pageHeight="590" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -490,7 +490,7 @@
         <mxCell id="3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="Bit 31-20" vertex="1">
           <mxGeometry height="20" width="372" x="45" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="实体指纹指纹 (12 bit)&lt;br&gt;h(Topic ‖ TypeID ‖ Role ‖ ExactPart)" vertex="1">
+        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="实体指纹 (12 bit)&lt;br&gt;h(Topic ‖ TypeID ‖ Role ‖ ExactPart)" vertex="1">
           <mxGeometry height="68" width="372" x="45" y="72" as="geometry" />
         </mxCell>
         <mxCell id="5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;fontStyle=1;" value="Bit 19-9" vertex="1">
