@@ -734,7 +734,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="图6_四阶段技术路线图" id="qVOy-lyP9nq7yrDwQBNA">
-    <mxGraphModel dx="1160" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1040" pageHeight="530" math="0" shadow="0">
+    <mxGraphModel dx="1091" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1040" pageHeight="530" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -744,7 +744,7 @@
         <mxCell id="3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" value="阶段一&lt;br&gt;资源剖析与&lt;br&gt;协议规格" vertex="1">
           <mxGeometry height="76" width="152" x="32" y="31" as="geometry" />
         </mxCell>
-        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="S32K148 分段 SRAM 与&lt;br&gt;以太网通信链路打通" vertex="1">
+        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="MCU 静态&amp;nbsp;SRAM 与&lt;br&gt;以太网通信链路打通" vertex="1">
           <mxGeometry height="72" width="222" x="206" y="33" as="geometry" />
         </mxCell>
         <mxCell id="5" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;" value="">
@@ -789,7 +789,7 @@
         <mxCell id="13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEAEA;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;" value="阶段二&lt;br&gt;QoS 感知摘要&lt;br&gt;与按需发现" vertex="1">
           <mxGeometry height="76" width="152" x="32" y="159" as="geometry" />
         </mxCell>
-        <mxCell id="14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="ENET GAUR/GALR 滤波&lt;br&gt;与离线单播租期维持" vertex="1">
+        <mxCell id="14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;" value="MAC 硬件组播滤波&lt;div&gt;与离线单播租期维持&lt;/div&gt;" vertex="1">
           <mxGeometry height="72" width="222" x="206" y="161" as="geometry" />
         </mxCell>
         <mxCell id="15" edge="1" parent="1" style="html=1;strokeColor=#000000;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=10;endArrow=block;endFill=1;startArrow=none;" value="">
